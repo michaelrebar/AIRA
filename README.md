@@ -1,7 +1,6 @@
 # AIRA
 
 Automatic Interpolative Reciprocating Algorithm
-Beta 14.03
 
 Overview:
 AIRA (Automatic Interpolative Reciprocating Algorithm) is a set of equations, when chained together, allow for multiple analysis data of sets by non-deterministic Turing based methods. These analyzed data sets generate meta-data which are heuristically sorted graphically and then inversed/inverted to allow for quantum level computation for entangled pairing. The entangled pairing reaching data mass of 2/3 of the original meta-data, has statistical power to self-edit the base equations. The process repeats with each generation of equations more precise than previous iteration. Now on beta 14, the maturity of the algorithm requires quantum computational power for the new edits to be processed.
