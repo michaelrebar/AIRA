@@ -19,3 +19,9 @@ Resource allotment of quantum computing (such as D-wave and IBM Watson) requires
 
 Sanitization:
 At the completion of the computational process the report generated in PDF form is non-editable and is temporary. The inferences from the data sets are able to be viewed and manually recorded if needed. Reports, data arrays, meta-data, meta-arrays and most-importantly virtual machines (seedbox and local) are auto-deleted when closing MATLAB sessions. The seedbox encrypted connection is severed ahead of MATLAB closure to assure no “man-in-the-middle” attacks can take place.
+
+Update late June 2021
+Since this initial release of this README in January 2020 work on AIRA has taken a new exiciting direction. Apple released M1 chips based on ARM technology which support all iOS based devices and also replace Intel macOS machines by likely late 2022. AIRA was initlally designed to run on desktop class machines with a quantum computing backend for support. Now with ARM based technology outperforming Intel class devices, AIRA will now be a modular based design, essentially eliminating the need for "seedbox" resources for meta-data.
+Scalar technologies already in iPhone, iPad and moving more to the MacBook Pro line eliminates the need for CUDA cores and GPU assisted computing. While NVIDIA has excelled lately in data center type computing, the environmental impact and use of water resources to cool data centers, creates carbon offset expenses that AIRA will not be developed against. 
+Radical rethinking of the development cycle has debulked much of which AIRA must connect to achieve its computational funciton. In short, the redesign and coding of the core elements will be modular and based on ARM technology. To that end, the Newton MessagePad, which also runs on ARM, will be part of the development cycle of AIRA.
+Hopefully basic code samples will be posted here by late 2021 or early 2022.
