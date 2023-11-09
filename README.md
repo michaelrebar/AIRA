@@ -25,3 +25,6 @@ Since this initial release of this README in January 2020 work on AIRA has taken
 Scalar technologies already in iPhone, iPad and moving more to the MacBook Pro line eliminates the need for CUDA cores and GPU assisted computing. While NVIDIA has excelled lately in data center type computing, the environmental impact and use of water resources to cool data centers, creates carbon offset expenses that AIRA will not be developed against. 
 Radical rethinking of the development cycle has debulked much of which AIRA must connect to achieve its computational funciton. In short, the redesign and coding of the core elements will be modular and based on ARM technology. To that end, the Newton MessagePad, which also runs on ARM, will be part of the development cycle of AIRA.
 Hopefully basic code samples will be posted here by late 2021 or early 2022.
+
+Update late 2023
+As of mid-year the technology of AIRA has been folded into the OpenAI movement. No further developement on AIRA as branched token will occur as of now.
